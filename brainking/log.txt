@@ -1,0 +1,64 @@
+2018/01/12 16:55:59 server will at port:8998
+2018/01/12 16:56:06 [004] WARN: Cannot handshake client settings.crashlytics.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [012] WARN: Cannot handshake client aoovqo8t.push.lncld.net:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [022] WARN: Cannot handshake client api.zhihu.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [014] WARN: Cannot handshake client appcloud.zhihu.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [016] WARN: Cannot handshake client zhihu-web-analytics.zhihu.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [021] WARN: Cannot handshake client appcloud.zhihu.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [015] WARN: Cannot handshake client app-router.leancloud.cn:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [017] WARN: Cannot handshake client api.zhihu.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [023] WARN: Cannot handshake client reports.crashlytics.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [011] WARN: Cannot handshake client zhihu-web-analytics.zhihu.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:09 [025] WARN: Cannot handshake client appcloud.zhihu.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:15 [049] WARN: Cannot handshake client stats.jpush.cn:443 remote error: tls: unknown certificate
+2018/01/12 16:56:15 [050] WARN: Cannot handshake client stats.jpush.cn:443 remote error: tls: unknown certificate
+2018/01/12 16:56:20 [061] WARN: Cannot handshake client reports.crashlytics.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:40 [063] WARN: Cannot handshake client reports.crashlytics.com:443 remote error: tls: unknown certificate
+2018/01/12 16:56:40 [062] WARN: Cannot handshake client appcloud.zhihu.com:443 remote error: tls: unknown certificate
+2018/01/12 16:57:11 [067] WARN: Cannot handshake client reports.crashlytics.com:443 remote error: tls: unknown certificate
+2018/01/12 16:57:17 [069] WARN: Cannot handshake client audid-api.taobao.com:443 EOF
+2018/01/12 16:58:11 [072] WARN: Cannot handshake client reports.crashlytics.com:443 remote error: tls: unknown certificate
+2018/01/12 16:59:41 Cost time 1249 ms
+2018/01/12 16:59:41 response findQuiz{"data":{"quiz":"通常民用住宅建筑「大产权时间」是指多少年？","options":["70[7]","30","50[2]","60[1]"],"num":1,"school":"生活","type":"日常","contributor":"奕辰","endTime":1515794395,"curTime":1515794380},"errcode":0}
+2018/01/12 16:59:47 response choose 217754314 1 {"data":{"uid":0,"num":1,"answer":1,"option":1,"yes":true,"score":160,"totalScore":160,"rowNum":0,"rowMult":0,"costTime":2,"roomId":217754314,"enemyScore":180,"enemyAnswer":1},"errcode":0}
+2018/01/12 16:59:47 Saving 通常民用住宅建筑「大产权时间」是指多少年？ , 70
+2018/01/12 16:59:49 [133] WARN: Cannot handshake client stats.umsns.com:443 remote error: tls: unknown certificate
+2018/01/12 16:59:51 [138] WARN: Cannot handshake client outlookmobile-office365-tas.msedge.net:443 remote error: tls: unknown certificate
+2018/01/12 16:59:51 [137] WARN: Cannot handshake client prod10-files.acompli.net:443 remote error: tls: unknown certificate
+2018/01/12 16:59:51 Cost time 432 ms
+2018/01/12 16:59:51 response findQuiz{"data":{"quiz":"电影《色，戒》的女主角由谁扮演？","options":["汤唯[12]","朱茵","张曼玉","梅艳芳"],"num":2,"school":"娱乐","type":"电影","contributor":"","endTime":1515794406,"curTime":1515794391},"errcode":0}
+2018/01/12 16:59:51 [139] WARN: Cannot handshake client by.uservoice.com:443 remote error: tls: unknown certificate
+2018/01/12 16:59:51 [140] WARN: Cannot handshake client by.uservoice.com:443 remote error: tls: unknown certificate
+2018/01/12 16:59:52 [141] WARN: Cannot handshake client outlookmobile-office365-tas.msedge.net:443 remote error: tls: unknown certificate
+2018/01/12 16:59:53 [142] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 16:59:55 [143] WARN: Cannot handshake client outlookmobile-office365-tas.msedge.net:443 remote error: tls: unknown certificate
+2018/01/12 16:59:56 [144] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:00 [146] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:00 response choose 217754314 2 {"data":{"uid":0,"num":2,"answer":1,"option":1,"yes":true,"score":120,"totalScore":280,"rowNum":2,"rowMult":1.1,"costTime":4,"roomId":217754314,"enemyScore":320,"enemyAnswer":1},"errcode":0}
+2018/01/12 17:00:00 Saving 电影《色，戒》的女主角由谁扮演？ , 汤唯
+2018/01/12 17:00:03 [148] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:05 Cost time 827 ms
+2018/01/12 17:00:05 response findQuiz{"data":{"quiz":"新中国被誉为当代“中国军神”的人物是？","options":["陈毅","朱德","彭德怀[1]","刘伯承[8]"],"num":3,"school":"文科","type":"军事","contributor":"勿谓言之不预也","endTime":1515794419,"curTime":1515794404},"errcode":0}
+2018/01/12 17:00:10 response choose 217754314 3 {"data":{"uid":0,"num":3,"answer":4,"option":4,"yes":true,"score":180,"totalScore":460,"rowNum":3,"rowMult":1.2,"costTime":1,"roomId":217754314,"enemyScore":320,"enemyAnswer":0},"errcode":0}
+2018/01/12 17:00:10 Saving 新中国被誉为当代“中国军神”的人物是？ , 刘伯承
+2018/01/12 17:00:11 [154] WARN: Cannot handshake client reports.crashlytics.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:11 [155] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:11 [156] WARN: Cannot handshake client stats.umsns.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:15 [157] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:16 Cost time 836 ms
+2018/01/12 17:00:16 response findQuiz{"data":{"quiz":"下列不是be动词变形的是？","options":["are[6]","am[7]","get","is[5]"],"num":4,"school":"文科","type":"外语","contributor":"Mocai","endTime":1515794430,"curTime":1515794415},"errcode":0}
+2018/01/12 17:00:22 response choose 217754314 4 {"data":{"uid":0,"num":4,"answer":3,"option":3,"yes":true,"score":160,"totalScore":620,"rowNum":4,"rowMult":1.3,"costTime":2,"roomId":217754314,"enemyScore":320,"enemyAnswer":0},"errcode":0}
+2018/01/12 17:00:22 Saving 下列不是be动词变形的是？ , get
+2018/01/12 17:00:27 [181] WARN: Cannot handshake client outlookmobile-office365-tas.msedge.net:443 remote error: tls: unknown certificate
+2018/01/12 17:00:29 Cost time 829 ms
+2018/01/12 17:00:29 response findQuiz{"data":{"quiz":"「AUD」代表哪种货币？","options":["日元[1]","澳元[10]","美元[2]","加元[1]"],"num":5,"school":"文科","type":"外语","contributor":"程振华","endTime":1515794442,"curTime":1515794428},"errcode":0}
+2018/01/12 17:00:32 [184] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:34 response choose 217754314 5 {"data":{"uid":0,"num":5,"answer":2,"option":2,"yes":true,"score":320,"totalScore":940,"rowNum":5,"rowMult":1.4,"costTime":2,"roomId":217754314,"enemyScore":800,"enemyAnswer":2},"errcode":0}
+2018/01/12 17:00:34 Saving 「AUD」代表哪种货币？ , 澳元
+2018/01/12 17:00:35 [187] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:51 [200] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:55 [203] WARN: Cannot handshake client mobile.pipe.aria.microsoft.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:56 [204] WARN: Cannot handshake client graph.facebook.com:443 remote error: tls: unknown certificate
+2018/01/12 17:00:56 [205] WARN: Cannot handshake client settings.crashlytics.com:443 remote error: tls: unknown certificate
+
+
